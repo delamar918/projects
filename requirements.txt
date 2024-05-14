@@ -1,5 +1,0 @@
-The following libraries were installed for this program:
-
-1. Emoji
-pip install emoji
-
