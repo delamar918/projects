@@ -1,1 +1,1 @@
-Program description
+This simple script asks the user how many cookies he/she wants to add to the cookie jar and how many cookies he/she wants to take from the cookie jar. The program adds and subtracts the number of cookies from the jar provided that it does not exceed 12 or dip below 0
