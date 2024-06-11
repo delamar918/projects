@@ -1,0 +1,1 @@
+This script allows the user to create a password from a random assortment of letters, symbols and numbers. The user inputs how many letters, symbols and numbers they would like to have in the password and the program takes those inputs and generates the end product.
